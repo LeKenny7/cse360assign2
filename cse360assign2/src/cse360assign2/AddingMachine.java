@@ -19,7 +19,7 @@ public class AddingMachine {
 	}
 	
 	public void add (int value) {
-		System.out.println("SUP DAWG");
+		System.out.println("SUP diggy");
 	}
 	
 	public void subtract (int value) {
